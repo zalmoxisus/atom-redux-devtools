@@ -1,0 +1,22 @@
+{
+  "name": "redux-devtools",
+  "main": "./lib/index",
+  "version": "0.0.1",
+  "description": "Open Redux DevTools in the editor",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "devtools:open"
+  },
+  "repository": "https://github.com/zalmoxisus/atom-redux-devtools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "sub-atom": "1.0.x",
+    "react": "^0.14",
+    "react-dom": "^0.14.3",
+    "remotedev-app": "^0.2.6"
+  }
+}

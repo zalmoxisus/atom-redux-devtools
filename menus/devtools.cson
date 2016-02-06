@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Show Redux DevTools'
+      'command': 'devtools:open'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Redux DevTools'
+      'submenu': [
+        {
+          'label': 'Open'
+          'command': 'devtools:open'
+        }
+      ]
+    ]
+  }
+]
