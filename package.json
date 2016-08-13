@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.0.3",
-    "react": "15.2.1",
-    "react-dom": "15.2.1",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
     "remotedev-app": ">=0.6.2",
     "sub-atom": "1.0.x"
   }
