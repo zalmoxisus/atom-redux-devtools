@@ -16,7 +16,7 @@
     "atom-space-pen-views": "^2.0.3",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
-    "remotedev-app": "^0.8.1",
+    "remotedev-app": "^0.8.2",
     "sub-atom": "1.0.x"
   }
 }
