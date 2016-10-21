@@ -1,7 +1,7 @@
 {
   "name": "redux-devtools",
   "main": "./lib/index",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "description": "Open Redux DevTools in the editor",
   "keywords": [],
   "activationCommands": {
